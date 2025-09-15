@@ -1,0 +1,7 @@
+huggingface_hub
+python-dotenv
+scikit-learn
+torch
+transformers
+hf-xet
+bitsandbytes
