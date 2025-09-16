@@ -5,3 +5,4 @@ torch
 transformers
 hf-xet
 bitsandbytes
+tqdm
