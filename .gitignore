@@ -1,1 +1,38 @@
 .env
+.env
+
+# macOS / external-SSD metadata
+.DS_Store
+._*          # AppleDouble files created on non‑HFS volumes
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints
+
+# common dev artifacts
+*.log
+node_modules/
+```# filepath: /Users/huy.suy05./Documents/Projects/Bias_of_LLMs/.gitignore
+.env
+
+# macOS / external-SSD metadata
+.DS_Store
+._*          # AppleDouble files created on non‑HFS volumes
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints
+
+# common dev artifacts
+*.log
+node_modules/
